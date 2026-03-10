@@ -1,0 +1,12 @@
+{
+  "_comment": "Add MCP server integrations here. Examples below.",
+  "_example_http": {
+    "type": "http",
+    "url": "https://your-mcp-server.com/api"
+  },
+  "_example_stdio": {
+    "type": "stdio",
+    "command": "npx",
+    "args": ["-y", "your-mcp-package"]
+  }
+}

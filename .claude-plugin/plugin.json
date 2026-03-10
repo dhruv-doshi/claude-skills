@@ -1,0 +1,8 @@
+{
+  "name": "frontend-nextjs-dev",
+  "description": "Next.js development skills covering App Router, data fetching, performance optimization, and styling patterns for production-grade applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dhruv Doshi"
+  }
+}
