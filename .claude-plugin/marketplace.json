@@ -16,6 +16,17 @@
       "source": "./",
       "category": "development",
       "homepage": "https://github.com/dhruv-doshi/claude-skills"
+    },
+    {
+      "name": "backend-fastapi-dev",
+      "description": "FastAPI backend development skill.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dhruv Doshi"
+      },
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/dhruv-doshi/claude-skills"
     }
   ]
 }
