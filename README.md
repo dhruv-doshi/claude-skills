@@ -23,13 +23,13 @@ Once installed, Claude automatically applies the skill when you're working on a 
 
 ```bash
 # Install via Claude Code plugin manager
-claude plugin install github:dhruvdoshi/claude-skills
+claude plugin install github:dhruv-doshi/claude-skills
 ```
 
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/dhruvdoshi/claude-skills
+git clone https://github.com/dhruv-doshi/claude-skills
 claude plugin install ./claude-skills
 ```
 
